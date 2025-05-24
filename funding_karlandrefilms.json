@@ -1,0 +1,27 @@
+{
+    "project_name": "karlandrefilms",
+    "description": "A student-led multimedia and AI research initiative focused on independent filmmaking, photography, and digital content creation using open-source tools and machine learning. The project explores the intersection of technology and art to advance innovative storytelling.",
+    "needs": [
+        {
+            "type": "hardware",
+            "description": "High-performance PC build for AI rendering, video editing, and deep learning experimentation",
+            "amount": 4000
+        },
+        {
+            "type": "software",
+            "description": "Licenses and access to open-source AI tools, transcription models, and creative software APIs",
+            "amount": 1000
+        },
+        {
+            "type": "research_funding",
+            "description": "Support for a student researcher investigating generative AI in multimedia",
+            "amount": 5000
+        }
+    ],
+    "total_requested": 10000,
+    "contact": {
+        "name": "Carl Robertson-Cardona",
+        "email": "karlandrefilms@gmail.com",
+        "website": "https://bold.pro/my/carl-robertson-cardona/350"
+    }
+}
