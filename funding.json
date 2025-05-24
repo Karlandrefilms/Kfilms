@@ -1,20 +1,20 @@
 {
   "project_name": "karlandrefilms",
-  "description": "karlandrefilms is a student-led initiative at the intersection of digital filmmaking, photography, and artificial intelligence. The project uses open-source tools to explore new forms of creative storytelling, while contributing insights and resources back to the open-source community. The goal is to enable accessible, AI-powered multimedia production and to promote experimentation and innovation through shared knowledge.",
+  "description": "karlandrefilms is a student-led initiative at the intersection of digital filmmaking, photography, and artificial intelligence. The project uses open-source tools to explore new forms of creative storytelling while contributing insights and reproducible workflows to the broader community. The goal is to enable accessible, AI-powered multimedia production and to promote experimentation and safety through transparent research and shared tools.",
   "needs": [
     {
       "type": "hardware",
-      "description": "A high-performance PC for video editing, AI model training, and multimedia rendering.",
+      "description": "A high-performance workstation for running local AI models (e.g., Whisper, Ollama, Stable Diffusion) and automating creative workflows including video editing and transcription.",
       "amount": 4000
     },
     {
       "type": "software",
-      "description": "Licenses and cloud access for open-source AI tools and creative development environments.",
+      "description": "Licenses and cloud-based resources to support experiment tracking, data storage, and creative pipeline development.",
       "amount": 1000
     },
     {
       "type": "research",
-      "description": "Funding for a student-led research project on the use of AI in creative media production.",
+      "description": "Independent technical research into transparency, model behavior, and reproducibility in open-source generative AI applications.",
       "amount": 5000
     }
   ],
@@ -22,6 +22,6 @@
   "contact": {
     "name": "Carl Robertson-Cardona",
     "email": "karlandrefilms@gmail.com",
-  
+    "website": "https://github.com/Karlandrefilms/Kfilms"
   }
 }
